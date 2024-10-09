@@ -2,18 +2,14 @@
 	display:flex;
 	width:100vw;
 	height:100vw;
-	position:middle;
+	flex-wrap:center;
 	justify-content:center;
 }
 .item-1{
 	display:flex;
 	flex-wrap:center;
-	
-	
-	
 	background-color:red;
 	height:100px;
-	
 	
 }
 /* Your CSS Code here. */
