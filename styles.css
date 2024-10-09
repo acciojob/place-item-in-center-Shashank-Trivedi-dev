@@ -1,11 +1,13 @@
 .holder{
+	display:flex;
 	width:100vw;
 	height:100vw;
+	justify-content:space-evenly;
 }
 .item-1{
 	display:flex;
 	flex-wrap:wrap;
-	justify-content:space-evenly;
+	
 	position:middle;
 	background-color:red;
 	height:100px;
